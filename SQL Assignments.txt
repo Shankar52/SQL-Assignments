@@ -11,7 +11,7 @@ mysql> show databases;
 +--------------------+
 6 rows in set (0.00 sec)
 
-mysql> create database SQLAssignments;
+mysql> create database sqlassignments;
 Query OK, 1 row affected (0.04 sec)
 
 mysql> use sqlassignments;
