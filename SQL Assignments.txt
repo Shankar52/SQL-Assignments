@@ -69,7 +69,7 @@ mysql> INSERT INTO salespeople (snum, sname, city, comm, rownum)
     -> VALUES (1004, 'Motika', 'London' , 0.11, 4);
 Query OK, 1 row affected (0.04 sec)
 
-mysql> INSERT INTO salespeople (snum, sname, city, comm)
+mysql> INSERT INTO salespeople (snum, sname, city, comm, rownum)
     -> VALUES (1007, 'Rifkin', 'Barcelona' , 0.15, 7);
 Query OK, 1 row affected (0.04 sec)
 
